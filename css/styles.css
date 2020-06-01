@@ -57,3 +57,27 @@ body{
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
     border: 1px solid aqua;
 }
+
+h1{
+    font-weight: bolder;
+    font-size: 3em;
+    color: rgba(255, 255, 255, 0.685);
+}
+
+h2{
+    margin: 10px;
+    margin-top: 0;
+    padding: 20px;
+}
+
+#main{
+    margin-top: 0;
+}
+
+section{
+    margin: 18px;
+    padding-top: 0;
+    padding: 15px;
+    background-color: rgba(145, 158, 31, 0.712);
+    color: rgba(255, 255, 255, 0.685);
+}
